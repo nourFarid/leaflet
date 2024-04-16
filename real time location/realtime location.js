@@ -31,6 +31,7 @@ function getPosition(position) {
         if(circle) {
             map.removeLayer(circle)
         }
+        
     console.log('====================================');
     console.log(latitude, longitude) ;
     console.log('====================================');
